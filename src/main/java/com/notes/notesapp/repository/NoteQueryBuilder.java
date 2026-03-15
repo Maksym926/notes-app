@@ -1,6 +1,6 @@
 package com.notes.notesapp.repository;
 
-import com.notes.notesapp.model.NoteSearchParameters;
+import com.notes.notesapp.model.dto.NoteSearchParameters;
 import org.springframework.data.mongodb.core.query.Query;
 
 public class NoteQueryBuilder {
